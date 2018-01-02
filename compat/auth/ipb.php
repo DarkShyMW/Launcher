@@ -1,3 +1,6 @@
+Нужно обновить скрипт.
+Изменилась система авторизации IPS.
+
 <?php
 header("Content-Type: text/plain; charset=UTF-8");
 
